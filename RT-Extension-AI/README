@@ -2,6 +2,7 @@ INSTALLATION
     Set your rt path
         export RTHOME=/home/npatel/rt-6.0/rt
 
+In the requestTracker6.0/RT-Extension-AI do the following
     perl Makefile.PL
     make initdb
     make install
